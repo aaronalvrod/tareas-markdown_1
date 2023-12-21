@@ -1,6 +1,6 @@
 # *Etapas de desarrollo software*
 
-## *En las etapas de desarrollo software tenemos* **7 faces**
+### *En las etapas de desarrollo software tenemos* **7 faces** que  son:
 
 ### **Análisis de requisitos**
 
